@@ -4,4 +4,8 @@ A repository for the breast cancer research project in ATU Programming for Data 
 
 ## Task
 
+## Data Source
+
+Wolberg, W.H., Street, W.N., Mangasarian, O.L. (1995) Diagnostic Wisconsin Breast Cancer Database. Available at [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) (Accessed 23rd December, 2022).
+
 ## References
