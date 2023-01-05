@@ -13,7 +13,7 @@ A repository for the breast cancer research project in ATU Programming for Data 
 
 ## Data Source
 
-Wolberg, W.H., Street, W.N., Mangasarian, O.L. (1995) _Diagnostic Wisconsin Breast Cancer Database_. Available at [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) (Accessed 23rd December, 2022).
+Wolberg, W.H., Street, W.N., Mangasarian, O.L. (1995) _Diagnostic Wisconsin Breast Cancer Database_. Available at [University of California, Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) (Accessed 23rd December, 2022).
 
 ## References
 
@@ -22,3 +22,5 @@ Ahmad, U.K. (2021) "Breast Cancer Wisconsin Dataset". Available at [Deepnote](ht
 American Cancer Society (2022) "Fine Needle Aspiration (FNA) of the Breast". Available at [American Cancer Society](https://www.cancer.org/cancer/breast-cancer/screening-tests-and-early-detection/breast-biopsy/fine-needle-aspiration-biopsy-of-the-breast.html) (Accessed 28th December, 2022).
 \
 Kalshtein, Y. (2017) "Breast Cancer Data Analysis". Available at [RPubs](https://rpubs.com/Yael_K/329390) (Accessed 28th December, 2022).
+\
+Mohammad, W.T. et al (2022)
