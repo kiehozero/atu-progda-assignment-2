@@ -23,4 +23,6 @@ American Cancer Society (2022) "Fine Needle Aspiration (FNA) of the Breast". Ava
 \
 Kalshtein, Y. (2017) "Breast Cancer Data Analysis". Available at [RPubs](https://rpubs.com/Yael_K/329390) (Accessed 28th December, 2022).
 \
-Mohammad, W.T. et al (2022)
+Mohammad, W.T. et al (2022) "Diagnosis of Breast Cancer Pathology on the Wisconsin Dataset with the Help of Data Mining Classification and Clustering Techniques", _Applied Bionics and Biomechanics_, vol. 2022. Available at [Hindawi](https://doi.org/10.1155/2022/6187275) (Accessed 5th January, 2023).
+\
+Paithankar, M. (2020) "Breast Cancer Classification Using Python". Available at [The Startup (Medium)](https://medium.com/swlh/breast-cancer-classification-using-python-e83719e5f97d) (Accessed 4th January, 2023).
