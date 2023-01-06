@@ -21,12 +21,20 @@ Ahmad, U.K. (2021) "Breast Cancer Wisconsin Dataset". Available at [Deepnote](ht
 \
 American Cancer Society (2022) "Fine Needle Aspiration (FNA) of the Breast". Available at [American Cancer Society](https://www.cancer.org/cancer/breast-cancer/screening-tests-and-early-detection/breast-biopsy/fine-needle-aspiration-biopsy-of-the-breast.html) (Accessed 28th December, 2022).
 \
+Bobbitt, Z. (2021) "How to Adjust the Figure Size of a Seaborn Plot". Available at [Statology](https://www.statology.org/seaborn-figure-size/) (Accessed 6th January, 2023).
+\
+Bobbitt, Z. (2021) "How to Create Subplots in Seaborn". Available at [Statology](https://www.statology.org/seaborn-subplots/) (Accessed 6th January, 2023).
+\
 Kalshtein, Y. (2017) "Breast Cancer Data Analysis". Available at [RPubs](https://rpubs.com/Yael_K/329390) (Accessed 28th December, 2022).
+\
+Mishra, S. (2022) "Pandas: delete last column of DataFrame in Python)". Available at [BTechGeeks](https://btechgeeks.com/pandas-delete-last-column-of-dataframe-in-python/) (Accessed 6th January, 2023).
 \
 Mohammad, W.T. et al (2022) "Diagnosis of Breast Cancer Pathology on the Wisconsin Dataset with the Help of Data Mining Classification and Clustering Techniques", _Applied Bionics and Biomechanics_, vol. 2022. Available at [Hindawi](https://doi.org/10.1155/2022/6187275) (Accessed 5th January, 2023).
 \
 Paithankar, M. (2020) "Breast Cancer Classification Using Python". Available at [The Startup (Medium)](https://medium.com/swlh/breast-cancer-classification-using-python-e83719e5f97d) (Accessed 4th January, 2023).
 \
 Pandas Documentation (2022) "pandas.DataFrame.describe". Available at [Pandas](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html) (Accessed 6th January, 2023).
+\
+Seaborn Documentation (2022) "seaborn.histplot". Available at [Seaborn](https://seaborn.pydata.org/generated/seaborn.histplot.html) (Accessed 6th January, 2023).
 \
 W3Schools (2022) "Matplotlib Pie Charts". Available at [W3Schools](https://www.w3schools.com/python/matplotlib_pie_charts.asp) (Accessed 6th January, 2023).
