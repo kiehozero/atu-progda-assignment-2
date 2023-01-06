@@ -28,3 +28,5 @@ Mohammad, W.T. et al (2022) "Diagnosis of Breast Cancer Pathology on the Wiscons
 Paithankar, M. (2020) "Breast Cancer Classification Using Python". Available at [The Startup (Medium)](https://medium.com/swlh/breast-cancer-classification-using-python-e83719e5f97d) (Accessed 4th January, 2023).
 \
 Pandas Documentation (2022) "pandas.DataFrame.describe". Available at [Pandas](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html) (Accessed 6th January, 2023).
+\
+W3Schools (2022) "Matplotlib Pie Charts". Available at [W3Schools](https://www.w3schools.com/python/matplotlib_pie_charts.asp) (Accessed 6th January, 2023).
