@@ -41,4 +41,6 @@ Seaborn Documentation (2022) "seaborn.histplot". Available at [Seaborn](https://
 \
 Sumbria, S. (2021) "Breast Cancer Wisconsin (Diagnostic) Exploratory Data Analysis". Available at [Analytics Vidhya (Medium)](https://medium.com/analytics-vidhya/breast-cancer-diagnostic-dataset-eda-fa0de80f15bd) (Accessed 20th December, 2022).
 \
+Vendantu (2023) "Standard Error of the Mean". Available at [Vedantu](https://www.vedantu.com/maths/standard-error-of-the-mean) (Accessed 7th January, 2023).
+\
 W3Schools (2022) "Matplotlib Pie Charts". Available at [W3Schools](https://www.w3schools.com/python/matplotlib_pie_charts.asp) (Accessed 6th January, 2023).
