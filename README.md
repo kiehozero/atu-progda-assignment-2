@@ -37,4 +37,6 @@ Pandas Documentation (2022) "pandas.DataFrame.describe". Available at [Pandas](h
 \
 Seaborn Documentation (2022) "seaborn.histplot". Available at [Seaborn](https://seaborn.pydata.org/generated/seaborn.histplot.html) (Accessed 6th January, 2023).
 \
+Sumbria, S. (2021) "Breast Cancer Wisconsin (Diagnostic) Exploratory Data Analysis". Available at [Analytics Vidhya (Medium)](https://medium.com/analytics-vidhya/breast-cancer-diagnostic-dataset-eda-fa0de80f15bd) (Accessed 20th December, 2022).
+\
 W3Schools (2022) "Matplotlib Pie Charts". Available at [W3Schools](https://www.w3schools.com/python/matplotlib_pie_charts.asp) (Accessed 6th January, 2023).
