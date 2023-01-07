@@ -25,6 +25,8 @@ Bobbitt, Z. (2021) "How to Adjust the Figure Size of a Seaborn Plot". Available 
 \
 Bobbitt, Z. (2021) "How to Create Subplots in Seaborn". Available at [Statology](https://www.statology.org/seaborn-subplots/) (Accessed 6th January, 2023).
 \
+Borges, L. (2015) "Analysis of the Wisconsin Breast Cancer Dataset and Machine Learning for Breast Cancer Detection", presented at the Workshop de Visão Computacional conference. Available at [ResearchGate](https://www.researchgate.net/publication/311950799_Analysis_of_the_Wisconsin_Breast_Cancer_Dataset_and_Machine_Learning_for_Breast_Cancer_Detection) (Accessed 4th January, 2023).
+\
 Kalshtein, Y. (2017) "Breast Cancer Data Analysis". Available at [RPubs](https://rpubs.com/Yael_K/329390) (Accessed 28th December, 2022).
 \
 Mishra, S. (2022) "Pandas: delete last column of DataFrame in Python)". Available at [BTechGeeks](https://btechgeeks.com/pandas-delete-last-column-of-dataframe-in-python/) (Accessed 6th January, 2023).
