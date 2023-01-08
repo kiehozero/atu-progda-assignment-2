@@ -27,6 +27,8 @@ Bobbitt, Z. (2021) "How to Create Subplots in Seaborn". Available at [Statology]
 \
 Borges, L. (2015) "Analysis of the Wisconsin Breast Cancer Dataset and Machine Learning for Breast Cancer Detection", presented at the Workshop de Visão Computacional conference. Available at [ResearchGate](https://www.researchgate.net/publication/311950799_Analysis_of_the_Wisconsin_Breast_Cancer_Dataset_and_Machine_Learning_for_Breast_Cancer_Detection) (Accessed 4th January, 2023).
 \
+Dertat, A. (2017) "Applied Deep Learning, Part 1: Artificial Neural Networks". Available at [Towards Data Science (Medium)](https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6) (Accessed 7th January, 2023).
+\
 GeeksForGeeks (2021) "Artificial Neural Networks and its Applications". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/artificial-neural-networks-and-its-applications/) (Accessed 7th January, 2023).
 \
 GeeksForGeeks (2022) "Decision Tree Classifier". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/decision-tree/) (Accessed 7th January, 2023).
@@ -44,6 +46,8 @@ Mohammed, S.A., Darrab, S., et al (2020) "Analysis of Breast Cancer Detection Us
 Paithankar, M. (2020) "Breast Cancer Classification Using Python". Available at [The Startup (Medium)](https://medium.com/swlh/breast-cancer-classification-using-python-e83719e5f97d) (Accessed 4th January, 2023).
 \
 Pandas Documentation (2022) "pandas.DataFrame.describe". Available at [Pandas](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html) (Accessed 6th January, 2023).
+\
+Platt. J.C. (1998) "Sequential Minimal Optimization: A Fast Algorithm for Training Support Vector Machines". Available at [Microsoft Research](https://www.microsoft.com/en-us/research/uploads/prod/1998/04/sequential-minimal-optimization.pdf) (Accessed 8th January, 2023).
 \
 Seaborn Documentation (2022) "seaborn.histplot". Available at [Seaborn](https://seaborn.pydata.org/generated/seaborn.histplot.html) (Accessed 6th January, 2023).
 \
