@@ -27,11 +27,19 @@ Bobbitt, Z. (2021) "How to Create Subplots in Seaborn". Available at [Statology]
 \
 Borges, L. (2015) "Analysis of the Wisconsin Breast Cancer Dataset and Machine Learning for Breast Cancer Detection", presented at the Workshop de Visão Computacional conference. Available at [ResearchGate](https://www.researchgate.net/publication/311950799_Analysis_of_the_Wisconsin_Breast_Cancer_Dataset_and_Machine_Learning_for_Breast_Cancer_Detection) (Accessed 4th January, 2023).
 \
+GeeksForGeeks (2021) "Artificial Neural Networks and its Applications". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/artificial-neural-networks-and-its-applications/) (Accessed 7th January, 2023).
+\
+GeeksForGeeks (2022) "Decision Tree Classifier". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/decision-tree/) (Accessed 7th January, 2023).
+\
+GeeksForGeeks (2022) "Support Vector Machine Algorithm". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/support-vector-machine-algorithm/) (Accessed 7th January, 2023).
+\
 Kalshtein, Y. (2017) "Breast Cancer Data Analysis". Available at [RPubs](https://rpubs.com/Yael_K/329390) (Accessed 28th December, 2022).
 \
 Mishra, S. (2022) "Pandas: delete last column of DataFrame in Python)". Available at [BTechGeeks](https://btechgeeks.com/pandas-delete-last-column-of-dataframe-in-python/) (Accessed 6th January, 2023).
 \
-Mohammad, W.T. et al (2022) "Diagnosis of Breast Cancer Pathology on the Wisconsin Dataset with the Help of Data Mining Classification and Clustering Techniques", _Applied Bionics and Biomechanics_, vol. 2022. Available at [Hindawi](https://doi.org/10.1155/2022/6187275) (Accessed 5th January, 2023).
+Mohammad, W.T., Teete, R., et al (2022) "Diagnosis of Breast Cancer Pathology on the Wisconsin Dataset with the Help of Data Mining Classification and Clustering Techniques", _Applied Bionics and Biomechanics_, vol. 2022. Available at [Hindawi](https://doi.org/10.1155/2022/6187275) (Accessed 5th January, 2023).
+\
+Mohammed, S.A., Darrab, S., et al (2020) "Analysis of Breast Cancer Detection Using Different Machine Learning Techniques", _Data Mining and Big Data: Proceedings of Fifth International Conference_, vol. 1234. Available at [United States National Library of Medicine, National Institutes of Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7351679/) (Accessed 21st December, 2022).
 \
 Paithankar, M. (2020) "Breast Cancer Classification Using Python". Available at [The Startup (Medium)](https://medium.com/swlh/breast-cancer-classification-using-python-e83719e5f97d) (Accessed 4th January, 2023).
 \
@@ -44,3 +52,6 @@ Sumbria, S. (2021) "Breast Cancer Wisconsin (Diagnostic) Exploratory Data Analys
 Vendantu (2023) "Standard Error of the Mean". Available at [Vedantu](https://www.vedantu.com/maths/standard-error-of-the-mean) (Accessed 7th January, 2023).
 \
 W3Schools (2022) "Matplotlib Pie Charts". Available at [W3Schools](https://www.w3schools.com/python/matplotlib_pie_charts.asp) (Accessed 6th January, 2023).
+\
+Wikipedia (2022, last edit) "K-Nearest Neighbours Algorithm". Available at [Wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (Accessed 20th December, 2022).
+Wikipedia (2022, last edit) "Support Vector Machine". Available at [Wikipedia](https://en.wikipedia.org/wiki/Support_vector_machine) (Accessed 8th January, 2023).
