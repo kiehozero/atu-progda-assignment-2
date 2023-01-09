@@ -57,6 +57,10 @@ Pandas Documentation (2022) "pandas.DataFrame.describe". Available at [Pandas](h
 \
 Platt. J.C. (1998) "Sequential Minimal Optimization: A Fast Algorithm for Training Support Vector Machines". Available at [Microsoft Research](https://www.microsoft.com/en-us/research/uploads/prod/1998/04/sequential-minimal-optimization.pdf) (Accessed 8th January, 2023).
 \
+SciKit-Learn Documentation (2022) "sklearn.metrics.classification_report". Available at [SciKit-Learn](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html) (Accessed 9th January, 2023).
+\
+SciKit-Learn Documentation (2022) "sklearn.model_selection.train_test_split". Available at [SciKit-Learn](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) (Accessed 3rd January, 2023).
+\
 Seaborn Documentation (2022) "seaborn.histplot". Available at [Seaborn](https://seaborn.pydata.org/generated/seaborn.histplot.html) (Accessed 6th January, 2023).
 \
 Singh, S., Jangir, S.K., et al (2022) "Feature Importance Score-Based Functional Link Artificial Neural Netowrks for Breast Cancer Classification", _BioMed Research International_, April 2022. Available at [EBSCO Host](https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,sso&db=ccm&AN=156080159&site=eds-live&scope=site&custid=s2873033) (Accessed 9th January, 2023).
@@ -65,7 +69,7 @@ Sumbria, S. (2021) "Breast Cancer Wisconsin (Diagnostic) Exploratory Data Analys
 \
 Vendantu (2023) "Standard Error of the Mean". Available at [Vedantu](https://www.vedantu.com/maths/standard-error-of-the-mean) (Accessed 7th January, 2023).
 \
-Vyas, R. (2020) "K-Nearest Neighours Implementation in SciKit-Learn". Available at [Programming Knowledge (YouTube)](https://www.youtube.com/watch?v=OO7Y5wQWnQs)
+Vyas, R. (2020) "K-Nearest Neighours Implementation in SciKit-Learn". Available at [Programming Knowledge (YouTube)](https://www.youtube.com/watch?v=OO7Y5wQWnQs) (Accessed 9th January, 2023).
 \
 W3Schools (2022) "Matplotlib Pie Charts". Available at [W3Schools](https://www.w3schools.com/python/matplotlib_pie_charts.asp) (Accessed 6th January, 2023).
 \
