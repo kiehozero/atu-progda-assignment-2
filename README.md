@@ -65,6 +65,8 @@ Sumbria, S. (2021) "Breast Cancer Wisconsin (Diagnostic) Exploratory Data Analys
 \
 Vendantu (2023) "Standard Error of the Mean". Available at [Vedantu](https://www.vedantu.com/maths/standard-error-of-the-mean) (Accessed 7th January, 2023).
 \
+Vyas, R. (2020) "K-Nearest Neighours Implementation in SciKit-Learn". Available at [Programming Knowledge (YouTube)](https://www.youtube.com/watch?v=OO7Y5wQWnQs)
+\
 W3Schools (2022) "Matplotlib Pie Charts". Available at [W3Schools](https://www.w3schools.com/python/matplotlib_pie_charts.asp) (Accessed 6th January, 2023).
 \
 Wikipedia (2022, last edit) "K-Nearest Neighbours Algorithm". Available at [Wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (Accessed 20th December, 2022).
