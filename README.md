@@ -23,6 +23,8 @@ Ahmad, U.K. (2021) "Breast Cancer Wisconsin Dataset". Available at [Deepnote](ht
 \
 American Cancer Society (2022) "Fine Needle Aspiration (FNA) of the Breast". Available at [American Cancer Society](https://www.cancer.org/cancer/breast-cancer/screening-tests-and-early-detection/breast-biopsy/fine-needle-aspiration-biopsy-of-the-breast.html) (Accessed 28th December, 2022).
 \
+AskPython (2023) "K-Folk Cross-Validation in Python Using SKLearn". Available at [AskPython](https://www.askpython.com/python/examples/k-fold-cross-validation) (Accessed 9th January, 2023).
+\
 Ates, I., Bilgin, T.T. (2021) "The Investigation of the Success of Different Machine Learning Methods in Breast Cancer Diagnosis", _Konuralp Medical Journal_, vol. 13, no. 2. Available at [EBSCO Host](https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,sso&db=asn&AN=160342385&site=eds-live&scope=site&custid=s2873033) (Accessed 5th January, 2023).
 \
 Bobbitt, Z. (2021) "How to Adjust the Figure Size of a Seaborn Plot". Available at [Statology](https://www.statology.org/seaborn-figure-size/) (Accessed 6th January, 2023).
@@ -34,6 +36,8 @@ Borges, L. (2015) "Analysis of the Wisconsin Breast Cancer Dataset and Machine L
 Dertat, A. (2017) "Applied Deep Learning, Part 1: Artificial Neural Networks". Available at [Towards Data Science (Medium)](https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6) (Accessed 7th January, 2023).
 \
 GeeksForGeeks (2021) "Artificial Neural Networks and its Applications". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/artificial-neural-networks-and-its-applications/) (Accessed 7th January, 2023).
+\
+GeeksForGeeks (2022) "Create a Pandas DataFrame from Lists". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/create-a-pandas-dataframe-from-lists/) (Accessed 9th January, 2023).
 \
 GeeksForGeeks (2022) "Decision Tree Classifier". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/decision-tree/) (Accessed 7th January, 2023).
 \
@@ -62,6 +66,8 @@ SciKit-Learn Documentation (2022) "sklearn.metrics.classification_report". Avail
 SciKit-Learn Documentation (2022) "sklearn.model_selection.train_test_split". Available at [SciKit-Learn](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) (Accessed 3rd January, 2023).
 \
 Seaborn Documentation (2022) "seaborn.histplot". Available at [Seaborn](https://seaborn.pydata.org/generated/seaborn.histplot.html) (Accessed 6th January, 2023).
+\
+Seaborn Documentation (2022) "seaborn.lineplot". Available at [Seaborn](https://seaborn.pydata.org/generated/seaborn.lineplot.html) (Accessed 9th January, 2023).
 \
 Singh, S., Jangir, S.K., et al (2022) "Feature Importance Score-Based Functional Link Artificial Neural Netowrks for Breast Cancer Classification", _BioMed Research International_, April 2022. Available at [EBSCO Host](https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,sso&db=ccm&AN=156080159&site=eds-live&scope=site&custid=s2873033) (Accessed 9th January, 2023).
 \
