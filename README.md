@@ -61,7 +61,13 @@ Paithankar, M. (2020) "Breast Cancer Classification Using Python". Available at 
 \
 Pandas Documentation (2022) "pandas.DataFrame.describe". Available at [Pandas](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html) (Accessed 6th January, 2023).
 \
+Patel, D. (2019) "Naive Bayes Classifier Algorithm, Part 1". Available at [codebasics](https://www.youtube.com/watch?v=PPeaRc-r1OI) (Accessed 11th January, 2023).
+\
+Patel, D. (2019) "Naive Bayes Classifier Algorithm, Part 1". Available at [codebasics](https://www.youtube.com/watch?v=nHIUYwN-5rM) (Accessed 11th January, 2023).
+\
 Platt. J.C. (1998) "Sequential Minimal Optimization: A Fast Algorithm for Training Support Vector Machines". Available at [Microsoft Research](https://www.microsoft.com/en-us/research/uploads/prod/1998/04/sequential-minimal-optimization.pdf) (Accessed 8th January, 2023).
+\
+SciKit-Learn Documentation (2022) "Naive Bayes". Available at [SciKit-Learn](https://scikit-learn.org/stable/modules/naive_bayes.html) (Accessed 11th January, 2023).
 \
 SciKit-Learn Documentation (2022) "sklearn.metrics.classification_report". Available at [SciKit-Learn](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html) (Accessed 9th January, 2023).
 \
