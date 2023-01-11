@@ -77,7 +77,10 @@ Vendantu (2023) "Standard Error of the Mean". Available at [Vedantu](https://www
 \
 Vyas, R. (2020) "K-Nearest Neighours Implementation in SciKit-Learn". Available at [Programming Knowledge (YouTube)](https://www.youtube.com/watch?v=OO7Y5wQWnQs) (Accessed 9th January, 2023).
 \
+Vyas, R. (2019) "Support Vector Machines (SVM) in SciKit-Learn". Available at [Programming Knowledge (YouTube)](https://www.youtube.com/watch?v=zEabrO9l1vg) (Accessed 9th January, 2023).
+\
 W3Schools (2022) "Matplotlib Pie Charts". Available at [W3Schools](https://www.w3schools.com/python/matplotlib_pie_charts.asp) (Accessed 6th January, 2023).
 \
 Wikipedia (2022, last edit) "K-Nearest Neighbours Algorithm". Available at [Wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (Accessed 20th December, 2022).
+\
 Wikipedia (2022, last edit) "Support Vector Machine". Available at [Wikipedia](https://en.wikipedia.org/wiki/Support_vector_machine) (Accessed 8th January, 2023).
