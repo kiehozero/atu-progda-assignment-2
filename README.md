@@ -29,6 +29,8 @@ Ates, I., Bilgin, T.T. (2021) "The Investigation of the Success of Different Mac
 \
 Bobbitt, Z. (2021) "How to Adjust the Figure Size of a Seaborn Plot". Available at [Statology](https://www.statology.org/seaborn-figure-size/) (Accessed 6th January, 2023).
 \
+Bobbitt, Z. (2021) "How to Calculate the Standard Deviation of a List in Python". Available at [Statology](https://www.statology.org/standard-deviation-of-list-python/) (Accessed 11th January, 2023).
+\
 Bobbitt, Z. (2021) "How to Create Subplots in Seaborn". Available at [Statology](https://www.statology.org/seaborn-subplots/) (Accessed 6th January, 2023).
 \
 Borges, L. (2015) "Analysis of the Wisconsin Breast Cancer Dataset and Machine Learning for Breast Cancer Detection", presented at the Workshop de Visão Computacional conference. Available at [ResearchGate](https://www.researchgate.net/publication/311950799_Analysis_of_the_Wisconsin_Breast_Cancer_Dataset_and_Machine_Learning_for_Breast_Cancer_Detection) (Accessed 4th January, 2023).
@@ -56,6 +58,10 @@ Mishra, S. (2022) "Pandas: delete last column of DataFrame in Python)". Availabl
 Mohammad, W.T., Teete, R., et al (2022) "Diagnosis of Breast Cancer Pathology on the Wisconsin Dataset with the Help of Data Mining Classification and Clustering Techniques", _Applied Bionics and Biomechanics_, vol. 2022. Available at [Hindawi](https://doi.org/10.1155/2022/6187275) (Accessed 5th January, 2023).
 \
 Mohammed, S.A., Darrab, S., et al (2020) "Analysis of Breast Cancer Detection Using Different Machine Learning Techniques", _Data Mining and Big Data: Proceedings of Fifth International Conference_, vol. 1234. Available at [United States National Library of Medicine, National Institutes of Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7351679/) (Accessed 21st December, 2022).
+\
+NumPy Documentation (2022) "numpy.random.Gamma". Available at [NumPy](https://numpy.org/doc/stable/reference/random/generated/numpy.random.gamma.html) (Accessed 11th January, 2023).
+\
+NumPy Documentation (2022) "numpy.random.lognormal". Available at [NumPy](https://numpy.org/doc/stable/reference/random/generated/numpy.random.lognormal.html) (Accessed 11th January, 2023).
 \
 Paithankar, M. (2020) "Breast Cancer Classification Using Python". Available at [The Startup (Medium)](https://medium.com/swlh/breast-cancer-classification-using-python-e83719e5f97d) (Accessed 4th January, 2023).
 \
