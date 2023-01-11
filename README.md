@@ -88,3 +88,5 @@ W3Schools (2022) "Matplotlib Pie Charts". Available at [W3Schools](https://www.w
 Wikipedia (2022, last edit) "K-Nearest Neighbours Algorithm". Available at [Wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (Accessed 20th December, 2022).
 \
 Wikipedia (2022, last edit) "Support Vector Machine". Available at [Wikipedia](https://en.wikipedia.org/wiki/Support_vector_machine) (Accessed 8th January, 2023).
+\
+Wikipedia (2022, last edit) "Weibull Distribution". Available at [Wikipedia](https://en.wikipedia.org/wiki/Weibull_distribution) (Accessed 11th January, 2023).
