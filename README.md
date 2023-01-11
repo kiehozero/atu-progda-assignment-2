@@ -39,6 +39,8 @@ GeeksForGeeks (2021) "Artificial Neural Networks and its Applications". Availabl
 \
 GeeksForGeeks (2022) "Create a Pandas DataFrame from Lists". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/create-a-pandas-dataframe-from-lists/) (Accessed 9th January, 2023).
 \
+GeeksForGeeks (2022) "Data Pre-Processing in SKLearn using Standard and Minmax Scaler". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/data-pre-processing-wit-sklearn-using-standard-and-minmax-scaler/) (Accessed 11th Janaury, 2023).
+\
 GeeksForGeeks (2022) "Decision Tree Classifier". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/decision-tree/) (Accessed 7th January, 2023).
 \
 GeeksForGeeks (2022) "Support Vector Machine Algorithm". Available at [GeeksForGeeks](https://www.geeksforgeeks.org/support-vector-machine-algorithm/) (Accessed 7th January, 2023).
@@ -64,6 +66,8 @@ Platt. J.C. (1998) "Sequential Minimal Optimization: A Fast Algorithm for Traini
 SciKit-Learn Documentation (2022) "sklearn.metrics.classification_report". Available at [SciKit-Learn](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html) (Accessed 9th January, 2023).
 \
 SciKit-Learn Documentation (2022) "sklearn.model_selection.train_test_split". Available at [SciKit-Learn](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) (Accessed 3rd January, 2023).
+\
+SciKit-Learn Documentation (2022) "sklearn.svm.SVC". Available at [SciKit-Learn](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html) (Accessed 11th January, 2023).
 \
 Seaborn Documentation (2022) "seaborn.histplot". Available at [Seaborn](https://seaborn.pydata.org/generated/seaborn.histplot.html) (Accessed 6th January, 2023).
 \
