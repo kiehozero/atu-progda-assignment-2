@@ -53,7 +53,7 @@ Kalshtein, Y. (2017) "Breast Cancer Data Analysis". Available at [RPubs](https:/
 \
 Mirjalili, S. (2018) "The Whale Optimization Algorithm" Available at [MATLAB File Exchange](https://uk.mathworks.com/matlabcentral/fileexchange/55667-the-whale-optimization-algorithm) (Accessed 9th January, 2023).
 \
-Mishra, S. (2022) "Pandas: delete last column of DataFrame in Python)". Available at [BTechGeeks](https://btechgeeks.com/pandas-delete-last-column-of-dataframe-in-python/) (Accessed 6th January, 2023).
+Mishra, S. (2022) "Pandas: delete last column of DataFrame in Python". Available at [BTechGeeks](https://btechgeeks.com/pandas-delete-last-column-of-dataframe-in-python/) (Accessed 6th January, 2023).
 \
 Mohammad, W.T., Teete, R., et al (2022) "Diagnosis of Breast Cancer Pathology on the Wisconsin Dataset with the Help of Data Mining Classification and Clustering Techniques", _Applied Bionics and Biomechanics_, vol. 2022. Available at [Hindawi](https://doi.org/10.1155/2022/6187275) (Accessed 5th January, 2023).
 \
